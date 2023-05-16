@@ -42,7 +42,7 @@ Console.WriteLine(r== 'a');
 
 // dos condiciones true
 
-Console.WriteLine(r== 'a' && a >= b);
+Console.WriteLine(r== 'a' && a <= b);
 
 // una true otra false
 
