@@ -38,12 +38,12 @@ Console.WriteLine(a >= b);
 // es char "a"
 
 char r = 'a';
-Console.WriteLine(a == 'a');
+Console.WriteLine(r== 'a');
 
 // dos condiciones true
 
-Console.WriteLine(a == 'a' && a >= b);
+Console.WriteLine(r== 'a' && a >= b);
 
 // una true otra false
 
-Console.WriteLine(a == 'a' || a == b);
+Console.WriteLine(r == 'a' || a == b);
